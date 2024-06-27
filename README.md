@@ -34,10 +34,10 @@ This script was created to eliminate freezes during the gameplay of Tom Clancy's
 - Русский (Russian)
 
 ## Author
-[humor]
+humor
 
 ## Acknowledgments
-[https://vk.com/r6club]
+https://vk.com/r6club
 
 ---
 
@@ -77,8 +77,7 @@ This script was created to eliminate freezes during the gameplay of Tom Clancy's
 - Русский
 
 ## Автор
-[humor]
+humor
 
 ## Благодарности
-[https://vk.com/r6club]
-
+https://vk.com/r6club
