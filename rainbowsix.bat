@@ -39,7 +39,7 @@ if "%lang%"=="EN" (
     set option6=Exit
     set invalid_input=Invalid input. Please try again.
     set confirm_running=Make sure the game is running.
-    set website_url=https://yourwebsite.com
+    set website_url=https://github.com/humoridze/Rainbow-Freeze
 ) else (
     set menu_title=Rainbow Freeze
     set option1=Steam - Обычная версия
@@ -50,7 +50,7 @@ if "%lang%"=="EN" (
     set option6=Выход
     set invalid_input=Неверный ввод. Попробуйте снова.
     set confirm_running=Убедитесь, что игра запущена.
-    set website_url=https://yourwebsite.com
+    set website_url=https://github.com/humoridze/Rainbow-Freeze
 )
 
 :menu
