@@ -1,7 +1,7 @@
 # Rainbow Freeze Script
 
 ## Description
-This script was created to eliminate freezes during the gameplay of Tom Clancy's Rainbow Six
+This script was created to eliminate freezes during the gameplay of Tom Clancy's Rainbow Six.
 
 ## Interaction with the Script
 1. **Language Selection**
